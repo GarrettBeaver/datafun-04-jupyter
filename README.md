@@ -21,3 +21,9 @@ git add .
 git commit -m "add .gitignore, commands to README.md"
 git push -u origin main
 ``
+
+## How to install system requrements
+
+```shell
+py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
+```
